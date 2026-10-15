@@ -1,5 +1,7 @@
 'use client';
 
+/* eslint-disable @next/next/no-img-element */
+
 import { Button, Input, Card } from '@/components/ui';
 import { Upload, X } from 'lucide-react';
 import { useState } from 'react';
